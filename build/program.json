@@ -1,0 +1,6 @@
+{
+  "program": "point_operations_elanmirtan.aleo",
+  "version": "0.0.0",
+  "description": "This program performs simple translation and rotation operations on a 2D point. It translates the point by adding offsets and rotates the point by swapping its coordinates. The program is designed to operate on a 2D point defined by its X and Y coordinates",
+  "license": "MIT"
+}
